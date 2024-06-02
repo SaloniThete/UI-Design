@@ -1,0 +1,162 @@
+.nav {
+  display: flex;
+  justify-content: space-around;
+}
+.logo {
+  margin-left: 30px;
+}
+.chickenText {
+  margin-left: 10%;
+}
+.navlist {
+  list-style: none;
+  display: flex;
+}
+li {
+  display: inline;
+
+  font-family: "Lato";
+}
+li a {
+  color: #000000;
+  font-weight: bold;
+  padding: 14px 30px;
+  text-decoration: none;
+}
+/* li a:hover {
+  background-color: #111;
+  color: #ffffff;
+} */
+.signup {
+  margin: 20px;
+  background-color: #9e090f;
+  border-radius: 15px;
+  padding: 4px 8px;
+  position: relative;
+  z-index: 1;
+  color: #ffffff;
+}
+.active {
+  color: #9e090f;
+}
+.bagImage {
+  z-index: 1;
+}
+.signimage {
+  display: flex;
+}
+.healthy {
+  margin: 10%;
+  display: flex;
+}
+.HealthyText {
+  font-size: 40px;
+  font-weight: bold;
+  font-family: "Lato";
+}
+.HealthyText2 {
+  display: block;
+  font-size: 40px;
+  font-family: "Lato";
+  font-weight: bold;
+}
+.chickencolor {
+  color: #9e090f;
+  font-weight: bold;
+}
+.waiting {
+  font-size: 40px;
+  font-family: "Lato";
+  font-weight: bold;
+}
+.cursus {
+  color: #5a5a5a;
+  margin-top: 30px;
+  display: block;
+}
+.menu {
+  margin: 20px;
+  background-color: #9e090f;
+  border-radius: 15px;
+  padding: 5px 15px;
+  color: #ffffff;
+}
+.menuimage {
+  display: flex;
+}
+.menualign {
+  display: flex;
+}
+.book {
+  margin: 20px;
+  background-color: #f3f3f3;
+  border-radius: 15px;
+  padding: 5px 15px;
+  color: #171717;
+  font-weight: 600;
+  font-size: 13px;
+  font-family: "Lato";
+}
+.imagechicken {
+  top: 0;
+  right: 0;
+  position: absolute;
+}
+.cardd {
+  display: flex;
+  background-color: #ffffff;
+  border-radius: 15px;
+  flex-wrap: wrap;
+  box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.25);
+  width: 30%;
+}
+.cardd:hover {
+  box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+}
+.imagecard {
+  margin: 15%;
+  font-weight: bold;
+  font-family: "Lato";
+}
+.cardd2 {
+  background-color: #9e090f;
+  border-radius: 15px;
+  margin-left: 10%;
+  width: 30%;
+  box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.25);
+}
+.fresh {
+  /* text-align: center; */
+}
+.card {
+  display: flex;
+}
+.imagecard2 {
+  margin: 15%;
+  font-weight: bold;
+  font-family: "Lato";
+}
+.Calories {
+  font-size: 5;
+  /* margin-left: 40px; */
+}
+.calp {
+  display: flex;
+  margin-left: 18px;
+  /* justify-content: space-between; */
+}
+.person {
+  margin-left: 18px;
+}
+.plus {
+  margin-left: 150%;
+}
+.dollar {
+  display: flex;
+  margin-left: 18px;
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
+.plus2 {
+  margin-left: 50%;
+}
